@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内免费使用指南（支持GPT-4，无需翻墙）【7月最新更新】
 
-> **更新时间：2025/07/15**                  
+> **更新时间：2025/07/24**                  
 
 **全面体验 ChatGPT 中文版，无需翻墙即可体验 GPT-4 与多功能服务！**    
 
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[https://xsimplechat.com/](https://xsimplechat.com/)**   
+**ChatGPT 中文版**入口：**[https://xsimplechat.com](https://xsimplechat.com/)**   
 **ChatGPT 镜像网站**直达：**[https://gpt.lanjing.pro](https://gpt.lanjing.pro)**
 
 ---
